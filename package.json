@@ -1,0 +1,9 @@
+{
+  "name": "solid-tailwind-vite",
+  "packageManager": "yarn@3.2.4",
+  "volta": {
+    "node": "19.0.0",
+    "npm": "8.19.2",
+    "yarn": "3.2.4"
+  }
+}
